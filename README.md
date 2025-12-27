@@ -62,7 +62,7 @@ H2GNN/
 │   └── Metabolic-Hypergraph/       # Hypergraph construction files
 │
 └── baselines/                      # Baseline comparison models
-    └── [Model_Name]/               # Each baseline with its own Colab notebook
+    └── [GCN, GAT, GraphSAGE, XGBoost, Random Forest]/               # Each baseline with its own Colab notebook
 ```
 
 ### Folder Descriptions
