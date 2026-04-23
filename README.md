@@ -255,9 +255,11 @@ The author gratefully acknowledges the **DrugBank Foundation** for providing acc
 
 ---
 
-**Repository Status**: 🔒 Private (pending paper acceptance)  
-**Paper Status**: Under review
+**Repository Status**: 🔓 Private  
+**Paper Status**: ✅ Accepted at ECAI-2026 — 18th International Conference on Electronics, Computers and Artificial Intelligence  
+**Publication**: IEEE Xplore (Scopus-indexed)  
+**Conference**: July 2–3, 2026, Bucharest, Romania
 
 ---
 
-*This README serves as a public guide to the repository structure and results. The complete codebase and datasets will be released upon paper acceptance.*
+*This README serves as a public guide to the repository structure and results. The complete codebase and datasets will be released upon paper publishing.*
