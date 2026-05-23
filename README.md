@@ -25,7 +25,7 @@ This repository provides documentation and a structural guide for **H²GNN** (Hi
 2. **Metabolic Network (Stage 2)**: Multi-class classification (86 interaction types) using embeddings transferred from the chemical network
 
 The hypergraph structure enables modeling of higher-order relationships between drugs, capturing complex interaction patterns that traditional pairwise graph-based methods may miss.
-
+![Hypergraph Architecture](Images/drug_id_3d_hypergraph_transfer.png)
 ## Key Achievements
 
 | Achievement | Value |
