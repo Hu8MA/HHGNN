@@ -256,8 +256,8 @@ The author gratefully acknowledges the **DrugBank Foundation** for providing acc
 ---
 
 **Repository Status**: 🔓 Private  
-**Paper Status**: ✅ Accepted at ECAI-2026 — 18th International Conference on Electronics, Computers and Artificial Intelligence  
-**Publication**: IEEE Xplore (Scopus-indexed)  
+**Paper Status**: ✅ Accepted at ECAI-2026 — 18th International Conference on Electronics, Computers and Artificial Intelligence 
+**Publication**: IEEE Xplore (Scopus-indexed) [Paper-link](https://ieeexplore.ieee.org/document/11613729)   
 **Conference**: July 2–3, 2026, Bucharest, Romania
 
 ---
